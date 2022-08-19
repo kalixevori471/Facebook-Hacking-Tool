@@ -5,4 +5,6 @@ installation:
 
 git clone https://github.com/kalixevori471/Facebook-Hacking-Tool/blob/main/Facebook.py
 
+cd Facebook-Hacking-Tool
+
 python Facebook.py or python3 Facebook.py
